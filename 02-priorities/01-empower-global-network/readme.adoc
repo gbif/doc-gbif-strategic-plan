@@ -1,14 +1,21 @@
 == Empower global network
+
 Ensure that governments, researchers and users are equipped and supported to share, improve and use data through the GBIF network, regardless of geography, language or institutional affiliation.
+
 ===	Remove barriers to participation
+
 * Engage with government stakeholders in all regions to expand national participation in GBIF
 * Ensure that data holders everywhere have access to tools and support to publish and use data through GBIF
 * Evaluate and respond to needs for delivery of data and data summaries in additional formats and through new technologies
+
 ===	Increase benefits associated with publishing biodiversity data
+
 *	Promote best practices for citation and acknowledgment of data publishers
 *	Report on use of data accessed through GBIF network
 *	Enable data publishers and users to collaborate in correcting and improving data
+
 ===	Address capacity needs
+
 *	Maintain current and complete guidance materials to support all types of data holder and data publisher
 *	Support capacity exchange and reuse of tools and expertise to accelerate establishment of national biodiversity information facilities
 *	Partner with other organizations, institutions and agencies to maximize benefits from investments in capacity development in all regions
