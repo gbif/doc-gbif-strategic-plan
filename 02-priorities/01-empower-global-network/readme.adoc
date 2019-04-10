@@ -1,4 +1,4 @@
-== Empower global network
+== 1. Empower global network
 
 Ensure that governments, researchers and users are equipped and supported to share, improve and use data through the GBIF network, regardless of geography, language or institutional affiliation.
 
