@@ -1,0 +1,17 @@
+== Strategic  framework
+
+This Strategic Plan identifies a set of five interrelated priorities for GBIF activity during 2017-2021. The overall goal is to increase the relevance and value of GBIF as a mechanism for delivering comprehensive information on the recorded occurrence of species around the world.
+
+Achieving this goal depends on expanding engagement into all countries and regions and on maximizing the value and benefits provided by GBIF for all key stakeholders, including data publishers, national and organizational participants, researchers, and governments and intergovernmental frameworks.
+
+Together, these five priorities represent a challenging but significant path forward for GBIF to increase its usefulness for all stakeholders. Implementing this strategy will require coordinated activity throughout the GBIF network as well as engagement and collaboration with all other stakeholders in biodiversity information.
+
+==
+
+The first priority—to *empower global network*—underpins those that follow. GBIF is not simply a partnership focused on delivering a global data resource. Its goals must include establishing effective national biodiversity information facilities (BIFs) as activities and networks that connect the groups that hold or require information on biodiversity, and for these national BIFs to deliver value at the national level. Progress in any country will also yield benefits to others by increasing data availability and comprehensiveness and by contributing capacity and expertise to the global network.
+
+The second priority—to *enhance biodiversity information infrastructure*—supports the previous priorities. GBIF must enhance its cooperation with other biodiversity informatics activities to increase interoperability and interconnection between GBIF species occurrence data and the best available information on taxonomy, sequences, species traits, and literature, among others. Progress in delivering the GBIO framework will reinforce GBIF’s work in all areas by enabling integration of complementary data and use of species-level information to validate, clean and augment GBIF data.
+
+The third and fourth priorities—to *fill data gaps* and to *improve data quality*—address the greatest weaknesses of the data already delivered through the GBIF network. They arise from the challenge of maintaining clear, precise, high-resolution data while integrating it from thousands of different institutions and projects. Such issues also stem from the uneven nature of content mobilization with regard to taxa, time and space. GBIF must focus on enhancing the accuracy and completeness of published data and metadata and on improving handling of aggregated data. Doing so will support more consistent overall quality and enable researchers to assess the fitness of the data for their purposes. At the same time, it is important to assess and prioritize the various gaps and variations within GBIF data and to work with the global community to address these weaknesses.
+
+The last but in some ways overriding priority— to *deliver relevant data*—means providing access to the data resources and the aggregated data products needed by biodiversity researchers of all types and by policymakers in support of conservation and sustainable development. This priority requires closer engagement with user communities, both to establish present and future requirements and to collaborate in curating data to the highest possible standards of quality.
