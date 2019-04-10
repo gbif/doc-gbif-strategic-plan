@@ -1,0 +1,22 @@
+== Fill data gaps 
+
+Prioritize and promote mobilization of new data resources that combine with existing resources to maximize the coverage, completeness and resolution of GBIF-mediated data, particularly with respect to taxonomy, geography and time.
+
+===	Expand checklists to cover all taxonomic groups
+
+* Coordinate and deliver comprehensive solutions in partnership with Catalogue of Life and other partners
+*	Target mobilization of checklists for remaining taxonomic groups
+*	Mobilize national and regional species lists
+
+===	Identify and prioritize gaps in spatial and temporal data
+
+* Develop models and criteria to assess completeness and adequacy of existing data
+*	Maintain “gap map” highlighting priority regions, taxa and time periods to fill gaps
+
+=== Engage institutions and researchers with complementary data
+
+*	Develop mechanisms to integrate other classes of data providing information on species occurrence (checklists, expert maps, sample-based data, remote sensing, genomics, etc.)
+*	Ensure that tools and documentation support mobilization of data streams from all relevant research areas and observation systems
+*	Promote best practices for GBIF Nodes to identify, engage and support all national holders of relevant data
+*	Develop mechanisms to support data sharing from researchers and institutions in countries which are not yet GBIF Participants
+*	Seek supplementary funding to support large-scale content mobilization
