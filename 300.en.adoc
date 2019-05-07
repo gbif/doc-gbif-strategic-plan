@@ -30,6 +30,8 @@ As outlined in the Global Biodiversity Informatics Outlook (GBIO – www.biodive
 *	Comprehensive services to catalogue and organize these data (EVIDENCE layer)
 *	Large-scale modelling activities to provide the best possible picture of actual distributions, community composition and ecosystem structure (UNDERSTANDING layer)
 
+<<<gbio-framework,GBIO Framework>>
+
 The global community has the opportunity to address the challenges of each of these layers in parallel, with increased efficiency and shared benefits from advances in any aspect.
 
 Coordinated activity across these layers will deliver the information tools needed to deliver an effective GEO Biodiversity Observation Network (GEO BON, the biodiversity component within the Global Earth Observation System of Systems (GEOSS)), and thereby offer data products open to community validation in support of the scientific assessments of the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES), and addressing the needs of governments and MEAs including the Convention on Biological Diversity (CBD).
