@@ -1,3 +1,5 @@
+https://builds.gbif.org/job/doc-gbif-strategic-plan/[image:https://builds.gbif.org/job/doc-gbif-strategic-plan/badge/icon[Build status]]
+
 == GBIF Strategic Plan 2017-2021
 
 Digital documentation for GBIF Strategic Plan 2017-2021 intended to support annual work programmes and annual reports.
