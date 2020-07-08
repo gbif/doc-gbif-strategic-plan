@@ -13,7 +13,7 @@
 :source-language: javascript
 
 ifdef::backend-html5[]
-_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[ and om other languages:,]._
+languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:

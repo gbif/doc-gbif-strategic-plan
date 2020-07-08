@@ -14,7 +14,7 @@ Ensure that governments, researchers and users are equipped and supported to sha
 
 ===	Increase benefits associated with publishing biodiversity data
 
-*	Promote best practices for citation and acknowledgment of data publishers
+*	Promote best practices for citation and acknowledgement of data publishers
 *	Report on use of data accessed through GBIF network
 *	Enable data publishers and users to collaborate in correcting and improving data
 
