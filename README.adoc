@@ -1,5 +1,8 @@
+https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Document]]
 https://builds.gbif.org/job/doc-gbif-strategic-plan/[image:https://builds.gbif.org/job/doc-gbif-strategic-plan/badge/icon[Build status]]
 
 == GBIF Strategic Plan 2017-2021
 
 Digital documentation for GBIF Strategic Plan 2017-2021 intended to support annual work programmes and annual reports.
+
+The document is available as HTML and PDF at https://docs.gbif-uat.org/gbif-strategic-plan/[GBIF Strategic Plan 2017-2021].
